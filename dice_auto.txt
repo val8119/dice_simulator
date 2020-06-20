@@ -1,0 +1,36 @@
+Autoroll statistics for 2020-06-20 12:01:38:
+Count: 25000
+Total: 86812
+Average: 3.47248
+
+NUM: ROLLS
+(1): 4253
+(2): 4191
+(3): 4239
+(4): 4193
+(5): 4056
+(6): 4068
+
+(1) was rolled the most with 4253 rolls
+(5) was rolled the least with 4056 rolls
+
+<============================================>
+
+Autoroll statistics for 2020-06-20 12:02:11:
+Count: 50000
+Total: 174195
+Average: 3.4839
+
+NUM: ROLLS
+(1): 8474
+(2): 8350
+(3): 8332
+(4): 8393
+(5): 8253
+(6): 8198
+
+(1) was rolled the most with 8474 rolls
+(6) was rolled the least with 8198 rolls
+
+<============================================>
+
