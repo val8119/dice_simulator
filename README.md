@@ -1,5 +1,5 @@
 # Dice rolling simulator
- My first python project. Roll dice manually or automatically, track and save statistics.
+ My first python project. Roll dice manually or automatically, track and save statistics.<br/>
  Commands:
  help - displays commands
  stats - current session statistics
