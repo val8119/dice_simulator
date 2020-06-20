@@ -9,4 +9,8 @@
  
  Example: `auto 25000 y`
  
- ![Autoroll example](https://raw.githubusercontent.com/val8119/Dice/master/autoroll_example.png)
+ ![Autoroll example]()
+ 
+  Example: `stats`
+ 
+ ![Stats example]()
