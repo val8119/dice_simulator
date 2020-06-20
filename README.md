@@ -4,5 +4,4 @@
  help - displays commands<br/>
  stats - current session statistics<br/>
  reset - reset current session statistics<br/>
- auto nr y/n - automatically roll the dice (nr - numer of rolls<br/>
-                                            y/n - show average)
+ auto nr y/n - automatically roll the dice (nr - number of rolls, y/n - show average)
